@@ -1,0 +1,7 @@
+com\adingrt\datos\Conexion.class
+com\adingrt\datos\TarifaDao.class
+com\adingrt\service\TarifaService.class
+com\adingrt\service\TarifaServiceImpl.class
+com\adingrt\model\Tarifa.class
+com\adingrt\api\TarifaResource.class
+com\adingrt\config\AppConfig.class
